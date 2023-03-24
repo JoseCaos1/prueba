@@ -2,3 +2,7 @@ body {
 	background-color: antiquewhite;
 	color: blue;
 }
+
+h1 {
+	border: none;
+}
